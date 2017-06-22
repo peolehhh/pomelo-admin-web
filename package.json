@@ -4,6 +4,7 @@
 	"private": false,
 	"dependencies": {
 		"express": "<4.0.0",
-		"ejs": ">=0.0.1"
+		"ejs": ">=0.0.1",
+		"pomelo": "2.2.x"
 	}
 }
